@@ -1,4 +1,4 @@
-# 8-Segment Display Counter Example
+# 8-Segment Display Counter
 
 This repository contains an Arduino sketch for controlling a 8-segment display. The sketch cycles through numbers 0 to 9 on the display, with each number shown for 1 second.
 
